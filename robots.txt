@@ -1,0 +1,5 @@
+# Robots.txt for NeuralStack Solutions
+User-agent: *
+Allow: /
+
+Sitemap: https://[ADD_DOMAIN_URL]/sitemap.xml
