@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://[ADD_DOMAIN_URL]/sitemap.xml
+Sitemap: https://neuralstack-solutions.netlify.app/sitemap.xml
